@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TodoList/static/css/main.7365c48c.css",
-    "main.js": "/TodoList/static/js/main.3433f5f4.js",
-    "static/js/787.0a30ac8f.chunk.js": "/TodoList/static/js/787.0a30ac8f.chunk.js",
-    "static/media/andrew.jpg": "/TodoList/static/media/andrew.ced6c7189a8617f99990.jpg",
-    "static/media/desk2.webp": "/TodoList/static/media/desk2.a737c9db51bf49c584f1.webp",
-    "static/media/desk.png": "/TodoList/static/media/desk.25bfacb168cb74213522.png",
-    "index.html": "/TodoList/index.html",
-    "main.7365c48c.css.map": "/TodoList/static/css/main.7365c48c.css.map",
-    "main.3433f5f4.js.map": "/TodoList/static/js/main.3433f5f4.js.map",
-    "787.0a30ac8f.chunk.js.map": "/TodoList/static/js/787.0a30ac8f.chunk.js.map"
+    "main.css": "/Dorynn/TodoList/static/css/main.7365c48c.css",
+    "main.js": "/Dorynn/TodoList/static/js/main.6c3d144f.js",
+    "static/js/787.0a30ac8f.chunk.js": "/Dorynn/TodoList/static/js/787.0a30ac8f.chunk.js",
+    "static/media/andrew.jpg": "/Dorynn/TodoList/static/media/andrew.ced6c7189a8617f99990.jpg",
+    "static/media/desk2.webp": "/Dorynn/TodoList/static/media/desk2.a737c9db51bf49c584f1.webp",
+    "static/media/desk.png": "/Dorynn/TodoList/static/media/desk.25bfacb168cb74213522.png",
+    "index.html": "/Dorynn/TodoList/index.html",
+    "main.7365c48c.css.map": "/Dorynn/TodoList/static/css/main.7365c48c.css.map",
+    "main.6c3d144f.js.map": "/Dorynn/TodoList/static/js/main.6c3d144f.js.map",
+    "787.0a30ac8f.chunk.js.map": "/Dorynn/TodoList/static/js/787.0a30ac8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7365c48c.css",
-    "static/js/main.3433f5f4.js"
+    "static/js/main.6c3d144f.js"
   ]
 }
