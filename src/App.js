@@ -12,8 +12,8 @@ function App() {
     <BrowserRouter>
       <Switch>
       
-      <Route exact path="TodoList/" component={Login}/>
-      <Route exact path="TodoList/home" component={Home}/>
+      <Route exact path="/" component={Login}/>
+      <Route exact path="/home" component={Home}/>
       <Route component={NotFound}/> 
       </Switch>
       
